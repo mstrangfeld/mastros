@@ -1,0 +1,1 @@
+# MASTROS NixOS Configuration
